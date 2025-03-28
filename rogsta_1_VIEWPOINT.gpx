@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="QMapShack 1.17.1 http://www.qlandkarte.org/" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" version="1.1" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+  <name>rogsta_1_VIEWPOINT</name>
+  <time>2025-03-28T04:37:08.180Z</time>
+ </metadata>
+ <wpt lon="16.00627429" lat="46.82019128">
+  <time>2025-03-28T04:37:08.187Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>32116e8321b9ac8b90832d53cdf5e977</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T04:37:08.188Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/WptMove.png</ql:icon>
+     <ql:time>2025-03-28T04:56:28.986Z</ql:time>
+     <ql:comment>Position geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="16.00749737" lat="46.81451222">
+  <time>2025-03-28T04:38:50.385Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>2321e8ee7fa9edb4c97bc393c6455d17</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="16.00979334" lat="46.80825612">
+  <time>2025-03-28T04:39:11.549Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>d2c6e2d4121b8208002448fbe6a1d8d4</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99421507" lat="46.82498148">
+  <time>2025-03-28T04:39:57.516Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>0562e127a9a85fa07cd4c445684aebc4</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99252528" lat="46.80777513">
+  <time>2025-03-28T04:40:43.058Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>371dd6e7054133d7ce94280ea86022fc</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T04:40:43.059Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/WptMove.png</ql:icon>
+     <ql:time>2025-03-28T04:47:08.456Z</ql:time>
+     <ql:comment>Position geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99316365" lat="46.81035625">
+  <time>2025-03-28T04:41:09.429Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>8e780ffc398517601b8270d1eed313aa</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.97604043" lat="46.82750672">
+  <time>2025-03-28T04:41:43.334Z</time>
+  <name>VIEWPOINT</name>
+  <sym>Scenic Area</sym>
+  <extensions>
+   <ql:key>80f20acc92590e52bfcead82bac6e919</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <extensions>
+  <ql:key>fd17d7e52eee4afa503c6158a428e554</ql:key>
+  <ql:sortingRoadbook>0</ql:sortingRoadbook>
+  <ql:sortingFolder>0</ql:sortingFolder>
+  <ql:correlation>1</ql:correlation>
+  <ql:invalidDataOk>0</ql:invalidDataOk>
+ </extensions>
+</gpx>

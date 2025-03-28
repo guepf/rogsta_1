@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="QMapShack 1.17.1 http://www.qlandkarte.org/" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" version="1.1" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <metadata>
+  <name>rogsta_1_History_Highlight</name>
+  <time>2025-03-28T04:31:13.594Z</time>
+ </metadata>
+ <wpt lon="15.98572052" lat="46.82714703">
+  <time>2025-03-28T04:31:13.599Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">Der Schwarze Stein&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">- Črni kamen&lt;/span>&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>0e3b165c889b1d7e5d26f7de41cfbee0</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T04:31:13.600Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:03:05.825Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:03:22.521Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="16.00238508" lat="46.82290761">
+  <time>2025-03-28T04:35:56.322Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">Pokopališče Ocinje s historičnim zvonikom&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">- &lt;/span>&lt;span style=" font-size:10pt; font-weight:600;">Friedhof Ocinje mit historischem Glockenturm&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;">&lt;span style=" font-family:'Roboto','Arial','sans-serif'; font-size:13px; color:#5e5e5e;">&lt;br />&lt;/span>&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>51a7a0d5e4da2e3bfa54452b4dcd2f77</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T04:35:56.323Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:00:52.993Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:01:17.769Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:05:39.377Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:08:03.182Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99720842" lat="46.80984958">
+  <time>2025-03-28T04:52:39.215Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>6b0bab136c12e8206b9286d9a6fb413e</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99343187" lat="46.80886561">
+  <time>2025-03-28T04:53:33.577Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <cmt>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:14px; color:#1f1f1f; background-color:#ffffff;">Wir befinden uns am Ende eines Höhenrückens, der sich von Weinberg bis hierher zieht. Gegen Ende der Kuruzen-Überfälle (1671 - 1711) wurde hier eine &amp;quot;Schanzung&amp;quot; (Befestigung mit Erdwällen, Gräben und Palisaden) errichtet. Diese &amp;quot;Festung&amp;quot; wird nur im Anlassfalle besetzt gewesen sein, und dann auch nicht mit regulären Soldaten.&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:14px; color:#1f1f1f; background-color:#ffffff;">(C) Ewald Walhütter&lt;/span>&lt;/p>&lt;/div></cmt>
+  <desc>&lt;div>
+&lt;h1 style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;">&lt;span style=" font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#1f1f1f; background-color:#ffffff;">Auf der Schanz&lt;/span>&lt;/h1>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>b55a4f76370008babea7e5ddb15701d6</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="16.00717283" lat="46.82322879">
+  <time>2025-03-28T04:56:49.767Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Roboto','Arial','sans-serif'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;">Pomnik padlim vojakom in oficirjem RA&lt;/span>&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Roboto','Arial','sans-serif'; font-size:10pt; font-weight:600; color:#000000;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">Denkmal für die gefallenen Soldaten und Offiziere der Jugoslawischen Volksarmee&lt;/span>&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>6df20fa5ad6af3dd70910e0c96a401af</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99118686" lat="46.81277020">
+  <time>2025-03-28T05:19:07.384Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">Gedenkstein&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'Arial'; font-size:10pt; font-weight:600;">- &lt;/span>&lt;span style=" font-size:10pt; font-weight:600;">spominski kamen.&lt;/span>&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>77010dd06d3ba16a1cec40c09c027bbe</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T05:19:07.385Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:20:41.645Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:21:09.570Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:21:28.505Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:21:46.543Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99054849" lat="46.81362562">
+  <time>2025-03-28T05:19:16.704Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:10pt; font-weight:600;">Gedenksäule&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:10pt; font-weight:600;">-spominski steber&lt;/span>&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>1920882bafe77124af8333f846faba59</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T05:19:16.705Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:23:32.509Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99319047" lat="46.80607880">
+  <time>2025-03-28T05:29:39.639Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:10pt; font-weight:600;">Gedenkstein für den Frieden&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:10pt; font-weight:600;">- Spominski kamen za mir.&lt;/span>&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>b3cebb001a6c7c8e326e7e7f01d4492b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2025-03-28T05:29:39.640Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:32:20.588Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2025-03-28T05:32:33.390Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lon="15.99414534" lat="46.80643863">
+  <time>2025-03-28T05:32:44.698Z</time>
+  <name>HISTORY HIGHLIGHT</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Tafel neu&lt;/p>&lt;/div></desc>
+  <sym>Museum</sym>
+  <extensions>
+   <ql:key>61fbe63ef2a60c692ad6686c7b429bef</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <extensions>
+  <ql:key>ce435c8bc40f90d1a7ca6e016042993c</ql:key>
+  <ql:sortingRoadbook>0</ql:sortingRoadbook>
+  <ql:sortingFolder>0</ql:sortingFolder>
+  <ql:correlation>1</ql:correlation>
+  <ql:invalidDataOk>0</ql:invalidDataOk>
+ </extensions>
+</gpx>
